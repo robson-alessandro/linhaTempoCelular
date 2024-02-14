@@ -138,6 +138,7 @@ body{
     color: var(--cor--secundaria);
     text-decoration: none;
     text-shadow:  black 0.1em 0.1em 0.4em;
+    width: 5rem;
 
 }
 
